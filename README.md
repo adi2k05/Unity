@@ -1,2 +1,2 @@
 # Unity
-Adotya Srivastava
+Aditya Srivastava
